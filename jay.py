@@ -1,3 +1,3 @@
 print("hello jay")
-print("last name :bhatya")
-print("age:27")
+print("last name :bhatiya")
+print("age:21")
